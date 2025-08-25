@@ -9,7 +9,7 @@ Dentro de esta carpeta, hacemos uso del comando:
 ```bash
 docker build -t my-cassandra .
 ```
-![Texto alternativo](https://github.com/FernandoCifuentesB/DB-Cassandra/edit/main/README.md)
+![Texto alternativo](https://github.com/FernandoCifuentesB/DB-Cassandra/blob/main/docker_build.jpg)
 
 ## Ejecución contenedor
 
@@ -24,3 +24,4 @@ docker run -d --name cassandra_db -p 1010:9042 my-cassandra
 luego, probamos que la imagen corra de una forma correcta haciendo uso de **docker ps**
 
 ![Texto alternativo](https://github.com/FernandoCifuentesB/DB-Cassandra/edit/main/README.md)
+
