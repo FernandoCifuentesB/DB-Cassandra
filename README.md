@@ -23,5 +23,6 @@ docker run -d --name cassandra_db -p 1010:9042 my-cassandra
 
 luego, probamos que la imagen corra de una forma correcta haciendo uso de **docker ps**
 
-![Texto alternativo](https://github.com/FernandoCifuentesB/DB-Cassandra/edit/main/README.md)
+![Texto alternativo](https://github.com/FernandoCifuentesB/DB-Cassandra/blob/main/docker_ps.jpg)
+
 
